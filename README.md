@@ -1,4 +1,13 @@
-📌 This repository is structured into different parts, each covering a key area of Machine Learning:
+📌 This repository is structured into different parts, each covering a key area of Machine Learning
+
+---
+
+## Latest Version 📂
+For the latest version of this repository, please visit the **Google Drive folder**:
+🔗 [Last Version - Google Drive](https://drive.google.com/drive/folders/1iWdEm0TXmS3jZnCoe_K_Dvq-0qo4jjkG?usp=sharing)
+
+---
+
 
 📂 Part 1 - Data Preprocessing
 
