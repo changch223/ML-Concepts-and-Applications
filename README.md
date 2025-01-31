@@ -90,3 +90,5 @@ For the latest version of this repository, please visit the **Google Drive folde
 -　Grid Search
 
 -　XGBoost
+
+-　CatBoost
