@@ -2,82 +2,82 @@ This repository is structured into different parts, each covering a key area of 
 
 **Part 1 - Data Preprocessing**
 
-Fundamental steps for preparing data before applying machine learning algorithms.
+  Fundamental steps for preparing data before applying machine learning algorithms.
 
 **Part 2 - Regression**
 
-Simple Linear Regression
+  Simple Linear Regression
 
-Multiple Linear Regression
+  Multiple Linear Regression
 
-Polynomial Regression
+  Polynomial Regression
 
-Support Vector Regression (SVR)
+  Support Vector Regression (SVR)
 
-Decision Tree Regression
+  Decision Tree Regression
 
-Random Forest Regression
+  Random Forest Regression
 
 **Part 3 - Classification**
 
-Logistic Regression
+  Logistic Regression
 
-k-Nearest Neighbors (K-NN)
+  k-Nearest Neighbors (K-NN)
 
-Support Vector Machine (SVM)
+  Support Vector Machine (SVM)
 
-Kernel SVM
+  Kernel SVM
 
-Naive Bayes
+  Naive Bayes
 
-Decision Tree Classification
+  Decision Tree Classification
 
-Random Forest Classification
+  Random Forest Classification
 
 **Part 4 - Clustering**
 
-K-Means Clustering
+  K-Means Clustering
 
-Hierarchical Clustering
+  Hierarchical Clustering
 
 **Part 5 - Association Rule Learning**
 
-Apriori Algorithm
+  Apriori Algorithm
 
-Eclat Algorithm
+  Eclat Algorithm
 
 **Part 6 - Reinforcement Learning**
 
-Upper Confidence Bound (UCB)
+  Upper Confidence Bound (UCB)
 
-Thompson Sampling
+  Thompson Sampling
 
 **Part 7 - Natural Language Processing (NLP)**
 
-Bag-of-Words Model
+  Bag-of-Words Model
 
-NLP Algorithms for Text Analysis
+  NLP Algorithms for Text Analysis
 
 **Part 8 - Deep Learning**
 
-Artificial Neural Networks (ANN)
+  Artificial Neural Networks (ANN)
 
-Convolutional Neural Networks (CNN)
+  Convolutional Neural Networks (CNN)
 
 **Part 9 - Dimensionality Reduction**
 
-Principal Component Analysis (PCA)
+  Principal Component Analysis (PCA)
 
-Linear Discriminant Analysis (LDA)
+  Linear Discriminant Analysis (LDA)
 
-Kernel PCA
+  Kernel PCA
 
 **Part 10 - Model Selection & Boosting**
 
-k-Fold Cross Validation
+  k-Fold Cross Validation
 
-Hyperparameter Tuning
+  Hyperparameter Tuning
 
-Grid Search
+  Grid Search
 
-XGBoost
+  XGBoost
