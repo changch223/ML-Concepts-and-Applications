@@ -1,4 +1,5 @@
-📌 This repository is structured into different parts, each covering a key area of Machine Learning
+📌 This repository is structured into different parts, each covering a key area of Machine Learning, based on the Udemy course Machine Learning A-Z, which I completed
+🔗 [Machine Learning A-Z](https://www.udemy.com/course/machinelearning/?srsltid=AfmBOooyVC9K63bVCLKolmYO1dQzqvgVvwH_742b6eGBaAyxVdUAN8BR)
 
 ---
 
